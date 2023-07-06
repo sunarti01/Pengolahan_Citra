@@ -1,0 +1,103 @@
+Nama	: Sunarti
+NPM	: 011200072
+MK	: PCD
+
+Soal Pilihan Ganda (single/jomblo choice)
+1. Keadaan yang ditimbulkan oleh perubahan intensitas pada pixelpixel yang bertetangga. Karena adanya perubahan intensitas inilah mata kita mampu mendeteksi tepi-tepi (edge) objek di dalam citra. 
+a. Kontur (contour)
+b. Cahaya
+c. Lampuh
+d. Background
+e. Tampilan
+Jawaban : a
+
+2. Yang bukan konvolusi berguna pada proses pengolahan citra?
+a. perbaikan kualitas citra (image enhancement)
+b. penghilangan derau
+c. mengurangi erotan
+d. penghalusan/pelembutan citra, deteksi tepi, penajaman tepi
+e. Tidak perbaikan kualitas citra (image enhancement)
+Jawaban : e
+
+3. Transformasi paling penting di dalam bidang pengolahan sinyal (signal processing), khususnya pada bidang pengolahan citra?
+a. Transformasi Data
+b. Transformasi Kontras
+c. Transformasi Fourier
+d. Transformasi Warna
+e. Transformasi Gambar
+Jawaban : c
+
+4. properti intrinsik dari objek tiga dimensi, properti intrinsik utama untuk sistem visual manusia. Manusia lebih sering mengasosiasikan objek dengan bentuknya ketimbang elemen lainnya (warna misalnya). Pada umumnya, citra yang dibentuk oleh mata merupakan citra dwimatra (2 dimensi), sedangkan objek yang dilihat umumnya berbentuk trimatra (3 dimensi).
+a. Gambar ( image)
+b. Bentuk (shape)
+c. Waran (color)
+d. Kontras
+e. Tekstur
+Jawaban :b
+
+5. Secara umum, elemen yang terlibat dalam pemrosesan citra dapat dibagi menjadi empat komponen?
+a. Image, shapes dan color.
+b. Tekstur, kontras dan gambar.
+c. Citra, bentuk, dan image
+d. Digitizer, komputer digital, piranti tampilan, piranti penyimpanan
+e. Sinyal analaog dan sinyal digital
+Jawaban : d
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+6. Soal :Sifat citra sebagai keluaran dari suatu sistem perekaman data berupa?
+a. digital yang dapat langsung disimpan pada suatu pita magnetik
+b. tidak langung tersimpan pada suatu pita magnetik
+c. analog berupa sinyal video seperti gambar pada monitor televisi
+d. merupakan sinyal yang tidak sdapat tersambung ke analog
+e. optik berupa foto
+Jawaban : (a,c,e)
+
+7. Proses digitalisasi citra ada dua macam?
+a. Tampilan gambar yang berwarna dan tidak berwarna
+b. Digitalisasi spasial (x, y), sering disebut sebagai penerokan (sampling).
+c. Digitalisasi intensitas f(x, y), sering disebut sebagai kuantisasi.
+d. Elemen-elemen Citra Digital analog dan proses sistem
+e. Warna dan kontras 
+Jawaban : (b,c)
+
+8. Ada tiga bidang studi yang berkaitan dengan data citra namun tujuan ketiganya berbeda?
+a. Termasuk kedalam sistem analog
+b. Grafika Komputer computer graphics
+c. Mneggunakan kabel data untuk menyatukan perbedaan tersebut
+d. Pengolahan Citra image processing
+e. Pengenalan Pola pattern recognition image interpretation
+Jawaban : (b,d,e)
+
+9. Elemen-elemen dalam pemrosesan Citra Digital?
+a. Kecerahan (brightness).
+b. Hanya memiliki satu warna yaitu hitam
+c. Kontur (contour)
+d. Warna (color)
+e. Tekstur (texture)
+Jawaban : (a,c,d,e)
+
+10.Contoh-contoh operasi pengorakan citra?
+a. Pendeteksian tepi objek (edge detection)
+b. Ekstraksi batas
+c. Representasi daerah (region)
+d. Grafika Komputer computer graphics
+e. analog berupa sinyal video seperti gambar pada monitor televisi
+Jawaban : (a,b,c)
+
+
+11. Pengolahan citra adalah pemrosesan citra yang tidak pasti, serta tidak menggunakan komputer tetapi mengunakan data-data penting berupa data terluis.
+jawaban : Salah
+
+12. Operasi pointwise terdiri dari pengaksesan pixel pada lokasi yang diberikan, memodifikasinya dengan operasi operasi lanjar (linear) atau nirlanjar (nonlinear), dan menempatkan nilai pixel baru pada lokasi yang bersesuaian di dalam citra yang baru. Operasi ini diulangi untuk keseluruhan pixel di dalam citra.
+Jawaban : Benar
+
+13. Operasi yang mendasar dalam pengolahan citra adalah operasi konvolusi. Konvolusi 2 buah fungsi T=(P x L) dan L=(S x S)
+Jawaban :Salah
+
+14. Readability yaitu kemudahan membaca teks readability dipengaruhi Jenis huruf, Ukuran, Pengaturan, termasuk di dalamnya alur, spasi, perataan dan Kontras warna terhadap latar belakang.
+Jawaban : Benar
+
+15. Misalkan citra digital memiliki L derajat keabuan, yaitu dari nilai 0 sampai L – 1 (misalnya pada citra dengan kuantisasi derajat keabuan 8-bit, nilai derajat keabuan dari 0 sampai 255). Secara matematis histogram citra dihitung dengan rumus: ni = jumlah pixel yang memiliki derajat berwarna merah, in = Bukan jumlah seluruh pixel di dalam citra.
+Jawaban :Salah
+
+
